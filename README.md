@@ -149,6 +149,25 @@ May-2026-Production-Analysis/
 - Add monthly comparisons when additional datasets are available.
 - Improve automated validation and reporting workflows.
 
+
+## Key Results
+
+- Processed and validated 270 synthetic production records covering 30 days and 9 production lines.
+- Checked duplicate records, missing values, date consistency, and production quantity constraints.
+- Calculated machine wastage, total wastage, and operational wastage using documented formulas.
+- Generated Excel workbooks containing production summaries, line-wise comparisons, wastage metrics, and validation reports.
+- Preserved missing production and packaging values for Line 9 rather than filling them with invented values.
+
+## Project Files
+
+- [Jupyter Notebook — Production Analysis](notebooks/May_2026_Production_Report.ipynb)
+- [Synthetic Master Dataset](data/May_2026_Production_Master_Updated.xlsx)
+- [Production Metrics Workbook](reports/May_2026_Production_Metrics.xlsx)
+- [Production Summary Reports](reports/May_2026_Production_Summary_Reports.xlsx)
+- [Analysis Screenshots](screenshots/)
+
+> **Note:** All results are based on synthetic sample data generated for this portfolio project, not verified company production results.
+
 ## Author
 
 **Aditya Tripathi**  
